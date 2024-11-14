@@ -41,16 +41,23 @@ export const navBarConfig: NavBarConfig = {
   links: [  
     LinkPreset.Home,
     LinkPreset.Archive,
-    LinkPreset.About,
     {
-      name: '友链',
-      url: 'https://www.akio.top/friends',     // Internal links should not include the base path, as it is automatically added
-      external: true,                               // Show an external link icon and will open in a new tab
+      name: '关于我',
+      url: '/about/',
+    },
+    {
+      name: '关于 Dev',
+      url: '/development/',
+    },
+    {
+      name: "友链",
+      url: "https://www.akio.top/friends",
+      external: true,
     },
     {
       name: '前往主站',
-      url: 'https://www.akio.top',     // Internal links should not include the base path, as it is automatically added
-      external: true,                               // Show an external link icon and will open in a new tab
+      url: 'https://www.akio.top',
+      external: true,
     },
   ],
 }
