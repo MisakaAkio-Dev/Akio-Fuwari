@@ -3,7 +3,7 @@ title: 【非真实内容】京华市轨道交通路线图
 published: 2024-06-18
 description: ''
 image: 'https://act-webstatic.akio.top/2024/06/19/66721885b510f.png'
-tags: [BLUEAKIO, Akio Studio, 安林]
+tags: [BLUEAKIO, DesignBLUEAKIO, 安林]
 category: '文创产品'
 draft: false 
 ---
