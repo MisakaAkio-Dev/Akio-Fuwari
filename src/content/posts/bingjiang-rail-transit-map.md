@@ -11,7 +11,7 @@ draft: false
 ![](https://act-webstatic.akio.top/2024/12/23/676955872d10b.png '暗色版')
 
 ## 简介
-补发一个之前漏发了的线路图，也是复刻的，原图作者一下子忘记他的B站号了（
+补发一个之前漏发了的线路图，也是复刻的，原图作者是[@柴荣猫猫](https://space.bilibili.com/1634064378)
 
 ![](https://act-webstatic.akio.top/2024/12/23/67694b4361010.png)
 
