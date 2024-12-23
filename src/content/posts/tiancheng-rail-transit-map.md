@@ -2,13 +2,13 @@
 title: 【二创】天城轨道交通路线图
 published: 2024-06-22
 description: ''
-image: 'https://act-webstatic.akio.top/2024/06/24/6678c9828f5fd.png'
+image: 'https://act-webstatic.akio.top/2024/12/23/67694ee4aab70.png'
 tags: [二创,天城轨道交通,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
 ---
-![](https://act-webstatic.akio.top/2024/06/24/6678c9aa8fec2.png '亮色版')
-![](https://act-webstatic.akio.top/2024/06/24/6678c990ac23a.png '暗色版')
+![](https://act-webstatic.akio.top/2024/12/23/67694ecd6e335.png '亮色版')
+![](https://act-webstatic.akio.top/2024/12/23/67694ed50a87a.png '暗色版')
 
 ## 简介
 瞎做的！闲的蛋疼花十个小时做的
@@ -19,8 +19,8 @@ draft: false
 ![额，不怎么好评价](https://server.akio.top/api/v2/objects/icon/sz1st0a7u0k3b4e1ul.jpg)
 
 ## 高清图
-- 亮色版：https://act-webstatic.akio.top/2024/06/24/6678c9aa8fec2.png
-- 暗色版：https://act-webstatic.akio.top/2024/06/24/6678c990ac23a.png
+- 亮色版：https://act-webstatic.akio.top/2024/12/23/67694ecd6e335.png
+- 暗色版：https://act-webstatic.akio.top/2024/12/23/67694ed50a87a.png
 
 ## 注脚
 - 设计元素来源：轻地铁 ChinMetro、地铁通 Metroman
