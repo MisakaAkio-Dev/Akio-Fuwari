@@ -1,11 +1,12 @@
 ---
 title: 信风地铁（总公司直管）古河线 建设情况
-published: 2024-09-02
+createTime: 2024-09-02
 description: '信风地铁（总公司直管）古河线 建设情况'
-image: 'https://act-webstatic.blueakio.com/2024/09/02/66d5aa3ec90e7.png'
-tags: [Minecraft,信风地铁]
+image: ''
+tags: [手记,Minecraft,信风地铁]
 category: '手记'
 draft: false 
+permalink: /notes/30/
 ---
 ## 高松海岸站
 ![](https://act-webstatic.blueakio.com/2024/09/02/66d5a983f0fa2.png)

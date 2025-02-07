@@ -1,11 +1,12 @@
 ---
 title: 记录 2024 年第 12 天
-published: 2024-01-12
+createTime: 2024-01-12
 description: ''
 image: ''
-tags: []
+tags: [手记]
 category: '手记'
 draft: false 
+permalink: /notes/17/
 ---
 ## 个人网址的大迁移
 

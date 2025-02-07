@@ -1,11 +1,12 @@
 ---
 title: 腾讯云会员  也许是腾讯系最值得观望的会员制度
-published: 2022-10-16
+createTime: 2022-10-16
 description: ''
 image: ''
 tags: [Tencent Cloud,不再更新]
 category: '默认分类'
 draft: false 
+permalink: /posts/about-tencent-cloud-membership/
 ---
 是的，我向腾讯倒了（误
 

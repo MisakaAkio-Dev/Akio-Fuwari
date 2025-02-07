@@ -1,11 +1,12 @@
 ---
 title: 2024总结篇 · 烂透了，和这个世界爆了
-published: 2024-12-28
+createTime: 2024-12-28
 description: '生活是自己选的，难不成和这个世界爆了？不太可能吧'
 image: ''
-tags: []
+tags: [手记]
 category: '手记'
 draft: false 
+permalink: /notes/32/
 ---
 ## B站小成就
 

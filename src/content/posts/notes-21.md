@@ -1,11 +1,12 @@
 ---
 title: （2024-03-18）个人简介界面更新
-published: 2024-03-18
+createTime: 2024-03-18
 description: ''
 image: ''
-tags: []
+tags: [手记]
 category: '手记'
 draft: false 
+permalink: /notes/21/
 ---
 个人网站简介页面增加了个人账号的相关分区，由于使用的设备原因没给预定要做超链接的链接做上
 

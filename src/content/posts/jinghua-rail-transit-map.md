@@ -1,12 +1,14 @@
 ---
 title: 【非真实内容】京华市轨道交通路线图
-published: 2024-06-18
+createTime: 2024-06-18
 description: ''
-image: 'https://act-webstatic.akio.top/2024/06/19/66721885b510f.png'
+image: ''
 tags: [BLUEAKIO, DesignBLUEAKIO, 安林]
 category: '文创产品'
 draft: false 
+permalink: /posts/jinghua-rail-transit-map/
 ---
+![](https://act-webstatic.akio.top/2024/06/19/66721885b510f.png '宣传图')
 ![](https://act-webstatic.akio.top/2024/06/22/6675e1ed9dd0f.png '亮色版')
 ![](https://act-webstatic.akio.top/2024/06/22/6675e21315bc4.png '暗色版')
 

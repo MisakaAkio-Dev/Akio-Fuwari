@@ -1,12 +1,14 @@
 ---
 title: 【二创】天城轨道交通路线图
-published: 2024-06-22
+createTime: 2024-06-22
 description: ''
-image: 'https://act-webstatic.akio.top/2024/12/23/67694ee4aab70.png'
+image: ''
 tags: [二创,天城轨道交通,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
+permalink: /posts/tiancheng-rail-transit-map/
 ---
+![](https://act-webstatic.akio.top/2024/12/23/67694ee4aab70.png '宣传图')
 ![](https://act-webstatic.akio.top/2024/12/23/67694ecd6e335.png '亮色版')
 ![](https://act-webstatic.akio.top/2024/12/23/67694ed50a87a.png '暗色版')
 

@@ -1,11 +1,12 @@
 ---
 title: 【翼龙面板搭建 EP1】后端 Wings 的安装
-published: 2023-07-19
+createTime: 2023-07-19
 description: ''
 image: ''
 tags: [Pterodactyl Panel,不再更新]
 category: '教程'
 draft: false 
+permalink: /posts/pterodactyl-ep1/
 ---
 ## 前言
 

@@ -1,12 +1,14 @@
 ---
 title: 【复刻】起源地铁路线图
-published: 2024-12-23
+createTime: 2024-12-23
 description: ''
-image: 'https://act-webstatic.akio.top/2024/12/23/67694aae2f03f.png'
+image: ''
 tags: [二创,起源地铁,BLUEAKIO,DesignBLUEAKIO]
 category: '文创产品'
 draft: false 
+permalink: /posts/origin-metro-map/
 ---
+![](https://act-webstatic.akio.top/2024/12/23/67694aae2f03f.png '宣传图')
 ![](https://act-webstatic.akio.top/2024/12/23/67694b7d9b189.png '亮色版')
 ![](https://act-webstatic.akio.top/2024/12/23/67694b8a5d652.png '暗色版')
 

@@ -1,11 +1,12 @@
 ---
 title: Windsys Project 停止更新后的一些思考
-published: 2024-05-13
+createTime: 2024-05-13
 description: '关于 Whatk 宣布 Windsys Project 停止更新后的想法'
-image: 'https://server.akio.top/api/v2/objects/icon/sscn6jcyt4anx9r4gj.jpeg'
-tags: []
+image: ''
+tags: [手记]
 category: '手记'
 draft: false 
+permalink: /notes/28/
 ---
 ![](https://server.akio.top/api/v2/objects/icon/sscn6jcyt4anx9r4gj.jpeg)
 
