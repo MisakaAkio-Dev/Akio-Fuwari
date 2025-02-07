@@ -5,7 +5,6 @@ import swup from '@swup/astro'
 import Compress from 'astro-compress'
 import icon from 'astro-icon'
 import { defineConfig } from 'astro/config'
-import Color from 'colorjs.io'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeComponents from 'rehype-components' /* Render the custom directive content */
 import rehypeKatex from 'rehype-katex'
@@ -13,34 +12,27 @@ import rehypeSlug from 'rehype-slug'
 import remarkDirective from 'remark-directive' /* Handle directives */
 import remarkGithubAdmonitionsToDirectives from 'remark-github-admonitions-to-directives'
 import remarkMath from 'remark-math'
+import remarkSectionize from 'remark-sectionize'
 import { AdmonitionComponent } from './src/plugins/rehype-component-admonition.mjs'
 import { GithubCardComponent } from './src/plugins/rehype-component-github-card.mjs'
 import { parseDirectiveNode } from './src/plugins/remark-directive-rehype.js'
 import { remarkExcerpt } from './src/plugins/remark-excerpt.js'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
 
-const oklchToHex = str => {
-  const DEFAULT_HUE = 250
-  const regex = /-?\d+(\.\d+)?/g
-  const matches = str.string.match(regex)
-  const lch = [matches[0], matches[1], DEFAULT_HUE]
-  return new Color('oklch', lch).to('srgb').toString({
-    format: 'hex',
-  })
-}
-
 // https://astro.build/config
 export default defineConfig({
-  site: "https://misaka.akio.top/",
-  base: "/",
-  trailingSlash: "always",
+  site: 'https://misaka.akio.top/',
+  base: '/',
+  trailingSlash: 'always',
   integrations: [
-    tailwind(),
+    tailwind({
+      nesting: true,
+    }),
     swup({
       theme: false,
-      animationClass: 'transition-swup-',   // see https://swup.js.org/options/#animationselector
-                                            // the default value `transition-` cause transition delay
-                                            // when the Tailwind class `transition-all` is used
+      animationClass: 'transition-swup-', // see https://swup.js.org/options/#animationselector
+      // the default value `transition-` cause transition delay
+      // when the Tailwind class `transition-all` is used
       containers: ['main', '#toc'],
       smoothScrolling: true,
       cache: true,
@@ -52,7 +44,7 @@ export default defineConfig({
     }),
     icon({
       include: {
-        'material-symbols': ['*'],
+        'preprocess: vitePreprocess(),': ['*'],
         'fa6-brands': ['*'],
         'fa6-regular': ['*'],
         'fa6-solid': ['*'],
@@ -75,6 +67,7 @@ export default defineConfig({
       remarkExcerpt,
       remarkGithubAdmonitionsToDirectives,
       remarkDirective,
+      remarkSectionize,
       parseDirectiveNode,
     ],
     rehypePlugins: [
@@ -130,15 +123,6 @@ export default defineConfig({
             return
           }
           warn(warning)
-        },
-      },
-    },
-    css: {
-      preprocessorOptions: {
-        stylus: {
-          define: {
-            oklchToHex: oklchToHex,
-          },
         },
       },
     },
