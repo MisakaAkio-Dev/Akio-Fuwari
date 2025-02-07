@@ -6,7 +6,7 @@ image: ''
 tags: [手记,Minecraft,信风地铁]
 category: '手记'
 draft: false 
-permalink: /notes/30/
+permalink: /note/30/
 ---
 ## 高松海岸站
 ![](https://act-webstatic.blueakio.com/2024/09/02/66d5a983f0fa2.png)

@@ -6,7 +6,7 @@ image: ''
 tags: [手记]
 category: '手记'
 draft: false 
-permalink: /notes/17/
+permalink: /note/17/
 ---
 ## 个人网址的大迁移
 
@@ -24,7 +24,7 @@ permalink: /notes/17/
 
 大概是这个样子了
 
-![](https://server.akio.top/api/v2/objects/icon/6eofj1qmtint0l9843.png)
+![](https://mx-space.akio.top/api/v2/objects/icon/6eofj1qmtint0l9843.png)
 
 有些我不怎么参与的项目就没写，如果在 QQ 和我交流多的人大概都懂，~~毕竟我都挂在嘴边说的~~
 
@@ -32,7 +32,7 @@ permalink: /notes/17/
 
 ~~我愿称之为 2024 最丑标志~~
 
-![](https://server.akio.top/api/v2/objects/icon/9sng5gcez04i1rjp1c.jpg)
+![](https://mx-space.akio.top/api/v2/objects/icon/9sng5gcez04i1rjp1c.jpg)
 
 ## 小吐槽
 N 久不写 Markdown 差点不会写了（悲）

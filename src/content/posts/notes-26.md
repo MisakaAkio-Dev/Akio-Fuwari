@@ -6,6 +6,6 @@ image: ''
 tags: [手记]
 category: '手记'
 draft: false 
-permalink: /notes/26/
+permalink: /note/26/
 ---
-![](https://server.akio.top/api/v2/objects/icon/gsf7gja596grmsq5fu.png)
+![](https://mx-space.akio.top/api/v2/objects/icon/gsf7gja596grmsq5fu.png)

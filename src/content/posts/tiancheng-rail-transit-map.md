@@ -18,7 +18,7 @@ permalink: /posts/tiancheng-rail-transit-map/
 不过其实也有觉得他们做的那个版本难看的原因，不过我这个堆完料也很挤了
 
 原版，来自[姚鲜森学长菌](https://space.bilibili.com/1170347936)：
-![额，不怎么好评价](https://server.akio.top/api/v2/objects/icon/sz1st0a7u0k3b4e1ul.jpg)
+![额，不怎么好评价](https://mx-space.akio.top/api/v2/objects/icon/sz1st0a7u0k3b4e1ul.jpg)
 
 ## 高清图
 - 亮色版：https://act-webstatic.akio.top/2024/12/23/67694ecd6e335.png

@@ -6,9 +6,9 @@ image: ''
 tags: [手记]
 category: '手记'
 draft: false 
-permalink: /notes/28/
+permalink: /note/28/
 ---
-![](https://server.akio.top/api/v2/objects/icon/sscn6jcyt4anx9r4gj.jpeg)
+![](https://mx-space.akio.top/api/v2/objects/icon/sscn6jcyt4anx9r4gj.jpeg)
 
 原文：[https://windsys.win/blog/03-talk/](https://windsys.win/blog/03-talk/)
 
@@ -16,7 +16,7 @@ permalink: /notes/28/
 
 我不知道抱着什么心情回了个评论，发完才发现有错别字
 
-![](https://server.akio.top/api/v2/objects/icon/w02skn63fxdgk5ugrp.png)
+![](https://mx-space.akio.top/api/v2/objects/icon/w02skn63fxdgk5ugrp.png)
 
 ### 怎么接触到 Windsys Project 的
 

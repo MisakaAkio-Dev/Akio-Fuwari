@@ -6,7 +6,7 @@ image: ''
 tags: [手记]
 category: '手记'
 draft: false 
-permalink: /notes/22/
+permalink: /note/22/
 ---
 因为购买了某套衣服的缘故，要开始购买美白相关产品，同时也要开始安排剃毛了
 
@@ -14,5 +14,5 @@ permalink: /notes/22/
 
 家人们，可否高抬贵手，求求了，万分感谢
 
-![](https://server.akio.top/api/v2/objects/icon/zorjxhkblyw64z43rz.jpg)
-![](https://server.akio.top/api/v2/objects/icon/i4hutnaefiwi7gcjat.png)
+![](https://mx-space.akio.top/api/v2/objects/icon/zorjxhkblyw64z43rz.jpg)
+![](https://mx-space.akio.top/api/v2/objects/icon/i4hutnaefiwi7gcjat.png)

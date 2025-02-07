@@ -6,7 +6,7 @@ image: ''
 tags: [手记]
 category: '手记'
 draft: false 
-permalink: /notes/21/
+permalink: /note/21/
 ---
 个人网站简介页面增加了个人账号的相关分区，由于使用的设备原因没给预定要做超链接的链接做上
 
@@ -16,4 +16,4 @@ permalink: /notes/21/
 
 近段时间会稍微同步一下 QQ空间、X、个人网站 的一部分内容，进度不会那么快
 
-![](https://server.akio.top/api/v2/objects/icon/32nk3febay26hsz3hs.jpg)
+![](https://mx-space.akio.top/api/v2/objects/icon/32nk3febay26hsz3hs.jpg)

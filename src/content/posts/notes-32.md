@@ -6,7 +6,7 @@ image: ''
 tags: [手记]
 category: '手记'
 draft: false 
-permalink: /notes/32/
+permalink: /note/32/
 ---
 ## B站小成就
 
